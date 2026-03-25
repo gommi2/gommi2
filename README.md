@@ -1,11 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Jihoon Bae
-### Backend · Android Developer
-
-<p>
-  <b>Building reliable systems with clean architecture, maintainability, and real-world troubleshooting experience.</b>
-</p>
+### C# · Android Developer
 
 <p>
   <img src="https://img.shields.io/badge/11%2B_Years-Experience-0A66C2?style=for-the-badge" />
@@ -87,7 +83,7 @@
 
 ## 📜 Certifications
 
-- ✅ **SQLD** (SQL Developer)
+- ✅ **SQLD**
 - ✅ **Engineer Information Processing** (정보처리기사)
 - ✅ Computer Specialist Level 1 (컴퓨터활용능력 1급)
 - ✅ Electronic Equipment Craftsman (전자기기기능사)
@@ -101,17 +97,6 @@
 
 - Spring Framework · Oracle 기반 웹 서비스 개발
 - 실무 분석 및 프로젝트 수행
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Jihoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh20240319&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh20240319&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
